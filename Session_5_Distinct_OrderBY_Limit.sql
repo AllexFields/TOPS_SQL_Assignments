@@ -1,5 +1,5 @@
-CREATE DATABASE Session_2;
-USE Session_2;
+CREATE DATABASE Session_5;
+USE Session_5;
 
 ----- 1. Food Delivery App – orders Table -----
 
