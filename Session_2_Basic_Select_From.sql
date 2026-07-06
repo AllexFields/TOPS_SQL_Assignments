@@ -1,4 +1,4 @@
-USE session_8;
+USE session_1;
 
 ----- 1. Select all columns -----
 
