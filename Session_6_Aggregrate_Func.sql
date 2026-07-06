@@ -1,5 +1,5 @@
-CREATE DATABASE Session_3;
-USE Session_3;
+CREATE DATABASE Session_6;
+USE Session_6;
 
 ----- 1. Food_Orders -----
 
